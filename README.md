@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on survive ... maybe an XDR magic that could identify all lateral movement done by very well-coded ransomware. 
+
 <!--
 **thiagofborn/thiagofborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
