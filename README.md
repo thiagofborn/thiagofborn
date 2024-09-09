@@ -2,7 +2,7 @@
 
 🔭 I am happy to architect solutions, automate, project, code, and assist. I like to collaborate on people's growth; it helps me enhance my communication skills, which for me is a fantastic experience.
 
-**thiagofborn/thiagofborn** is a ✨ _special_ ✨ repository because its `README.md` - Special like in Fallout. 
+**thiagofborn/thiagofborn** is a ✨ _Special like in Fallout_ ✨ repository because its `README.md`. 
 
 Here are some ideas to get you started:
 
