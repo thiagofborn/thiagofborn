@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on automating solutions on AWS and Azure for a big company with loads of IoT devices...
 - 🌱 I’m currently learning new languages.
 - 👯 I’m looking to collaborate on access control and IT security.
-- 🤔 I’m seeking help learning Spanish, Mandarin, and Ukrainian/Russian.
+- 🤔 I’m seeking help learning Spanish, Mandarin, and Polish/Ukrainian/Russian.
 - 💬 Ask me about AWS and Azure.
 - 📫 How to reach me: 
 - 😄 Pronouns: He.
