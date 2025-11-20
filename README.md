@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on access control and IT security.
 - 🤔 I’m seeking help learning Spanish, Mandarin, and Polish/Ukrainian/Russian.
 - 💬 Ask me about AWS and Azure.
-- 📫 How to reach me: [LinkeIn](https://www.linkedin.com/in/thiagoborn/?locale=en)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiagoborn/?locale=en)
 - 😄 Pronouns: He.
 - ⚡ Fun fact: I love animals and have a lovely cat.
 
