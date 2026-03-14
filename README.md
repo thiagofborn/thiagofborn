@@ -6,12 +6,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on automating solutions on AWS and Azure for a big company with loads of IoT devices...
-- 🌱 I’m currently learning new languages.
-- 👯 I’m looking to collaborate on access control and IT security.
-- 🤔 I’m seeking help learning Spanish, Mandarin, and Polish/Ukrainian/Russian.
-- 💬 Ask me about AWS and Azure.
+- 🔭 I’m currently working Hybrid-Cloud, DC and Hosting using AWS and Azure for health care market...
+- 🌱 Always curious about new languages. 
+- 👯 Governance and security member of the comunity.
+- 🤔 I’m learning Spanish, Mandarin, and Polish/Ukrainian/Russian.
+- 💬 Fell free to ask me about AWS and Azure.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiagoborn/?locale=en)
 - 😄 Pronouns: He.
-- ⚡ Fun fact: I love animals and have a lovely cat.
+- ⚡ Fun fact: I believe ADHD is only a parallel line in evolution.
 
