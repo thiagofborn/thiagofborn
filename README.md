@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 Governance and security member of the comunity.
 - 🤔 I’m learning Spanish, Mandarin, and Polish/Ukrainian/Russian.
 - 💬 Fell free to ask me about AWS and Azure.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiagoborn/?locale=en)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiagoborn/?locale=en) or my Website [Skyui.Space](https://www.skyui.space)
 - 😄 Pronouns: He.
 - ⚡ Fun fact: I believe ADHD is only a parallel line in evolution.
 
