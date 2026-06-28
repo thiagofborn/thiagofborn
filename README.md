@@ -4,7 +4,7 @@
 
 **thiagofborn/thiagofborn** is a ✨ _Special like in Fallout Games_ ✨. 
 
-Here are some ideas to get you started:
+Here are some stuff about me:
 
 - 🔭 I’m currently working Hybrid-Cloud, DC and Hosting using AWS and Azure for health care market...
 - 🌱 Always curious about new languages. 
